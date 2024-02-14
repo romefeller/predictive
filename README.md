@@ -4,5 +4,5 @@ Este repositório contém materiais e notebooks para as aulas de Análise Predit
 
 ## Índice
 
-- [Aula 1 - Introdução à Análise Preditiva](notebooks/intro.ipynb)
+- [Aula 1 - Introdução à Análise Preditiva](notebooks/Intro.ipynb)
 
