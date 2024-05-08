@@ -14,4 +14,6 @@ Este repositório contém materiais e notebooks para as aulas de Análise Predit
 - [Aula 10 - Modelos de Redes Neurais Bayesianas](https://github.com/romefeller/predictive/blob/main/notebooks/ProvaeNeural.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/ProvaeNeural.ipynb)
 - [Aula 11 - Processos Gaussianos](https://github.com/romefeller/predictive/blob/main/notebooks/GP.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/GP.ipynb)
 - [Aula 12 - Processos Gaussianos 2](https://github.com/romefeller/predictive/blob/main/notebooks/TS.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/TS.ipynb)
+- [Aula 13 - Séries Temporais](https://github.com/romefeller/predictive/blob/main/notebooks/TS.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/TS.ipynb)
+
 
