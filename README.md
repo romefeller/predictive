@@ -16,7 +16,7 @@ Este repositório contém materiais e notebooks para as aulas de Análise Predit
 - [Aula 12 - Processos Gaussianos 2](https://github.com/romefeller/predictive/blob/main/notebooks/TS.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/TS.ipynb)
 - [Aula 13 - Séries Temporais](https://github.com/romefeller/predictive/blob/main/notebooks/TS2.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/TS2.ipynb)
 - [Aula 14 - Processos Gaussianos 3](https://github.com/romefeller/predictive/blob/main/notebooks/GP3.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/GP3.ipynb)
-- [Aula 15 - Aprendizado por Reforço](https://github.com/romefeller/predictive/blob/main/notebooks/MABRL.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/MABRL.ipynb)
+- [Aula 15 - Análise de Sobrevivência](https://github.com/romefeller/predictive/blob/main/notebooks/MABRL.ipynb) [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romefeller/predictive/blob/main/notebooks/SurvAnalysis.ipynb)
 
 
 
